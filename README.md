@@ -1,5 +1,5 @@
 # MeLiDev
-Desarrollo de aplicación basada en la API de MercadoLibre
+App development based on MercadoLibre's API
 
 Some useful links:
 
