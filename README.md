@@ -25,11 +25,14 @@ https://api.mercadolibre.com/items/MLV465468083/visits/?date_from=2016-05-28T00:
 
 
 https://api.mercadolibre.com/items/MLV465562200/
+
 https://api.mercadolibre.com/sites/
+
 https://api.mercadolibre.com/items/MLV465468083/visits/?date_from=2016-05-28T00:00:00.000-03:00&date_to=2016-06-02T23:59:59.999
 
 
 https://api.mercadolibre.com/questions/search?seller_id={}
+
 https://api.mercadolibre.com/questions/search?seller_id=91382784
 
 https://api.mercadolibre.com/questions/search?item=MLV465562200
@@ -61,12 +64,12 @@ PREGUNTAS:
 	* Numero total de preguntas de un articulo:
 		https://api.mercadolibre.com/questions/search?item=MLV465562200&limit=0
 		(Se usa "limit=0" para no pedir los detalles de las preguntas)
-
-	* SOLO mostras el numero de preguntas
+		
+	*SOLO mostras el numero de preguntas:
 		https://api.mercadolibre.com/questions/search?item=MLV465562200&limit=0&attributes=total
 
 	TODO:
-	* Obtener numero de preguntas en un rango de tiempo
+	*Obtener numero de preguntas en un rango de tiempo
 
 
 PARA OBTENER SOLO "ATRIBUTOS" ESPECIFICOS:
