@@ -78,3 +78,7 @@ https://api.mercadolibre.com/items/MLV465562200/?attributes=sold_quantity,start_
   "start_time": "2016-05-25T12:56:36.000Z"
 }
 ```
+
+## TODO:
+
+* Obtener historial de precios
