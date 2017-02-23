@@ -28,14 +28,6 @@ https://api.mercadolibre.com/items/MLV465468083/visits/?date_from=2016-05-28T00:
 
 ·
 
-·
-
-
-
-# MeliDev
-
-
-
 https://api.mercadolibre.com/items/MLV465562200/
 
 https://api.mercadolibre.com/sites/
